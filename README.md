@@ -5,7 +5,10 @@ An end-to-end Machine Learning and Deep Learning project that predicts whether a
 The project combines data preprocessing, feature engineering, machine learning, deep learning experimentation, and deployment into an interactive Streamlit web application.
 
 ---
+## Live Demo: 
+https://exoplanet-detection-system.streamlit.app/
 
+---
 # Features
 
 * End-to-end Machine Learning pipeline
